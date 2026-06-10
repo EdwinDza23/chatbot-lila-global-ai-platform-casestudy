@@ -1,0 +1,20 @@
+07 — Design Evolution
+Concepts explored,one chosen. here is should be updated
+
+
+
+Problems solved by design. on click of problem card it is flipping to solution, I don't wan to click and see, I need to see it directly
+
+
+When the page is refereshed it should start from top/ hero section, it also trigger when clicked on logo AI ChatBot
+On scrolling the nav items should be highlighted when it scrolled to particular section, like when user is viewing problem statement then problem in navbar should be slightly higlighted
+
+Dark blue in color system is not vsible,make it visible
+
+In 04 — Information Architecture for AI chat, Ai Tools and Knowledge Base the checkmark is in red, change it to green
+
+
+
+Done:
+Remove that ESC Close button also remove that arrow left and right
+Changed name, Header etc minar changes
