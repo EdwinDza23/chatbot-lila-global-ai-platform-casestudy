@@ -1,0 +1,1 @@
+["  --text:#E8EEF6;--dim:#7A90AA;--dimmer:#3E526A;","          <div class=\"cs\"><div class=\"cs-swatch\" style=\"width:56px;background:#7A90AA;\"></div><div class=\"cs-hex\">#7A90AA</div><div class=\"cs-name\">Blue</div></div>"]
